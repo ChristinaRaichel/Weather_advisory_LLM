@@ -44,6 +44,7 @@ make install_dev
 Prepare credentials:
 ```shell
 cp .env.example .env
+```
 
 
 ## 2.2. Accuweather and Qdrant
