@@ -7,3 +7,17 @@ Real-time feature pipeline that:
 
 The **streaming pipeline** is **automatically deployed** on an AWS EC2 machine using a CI/CD pipeline built in GitHub actions.
 
+
+## Table of Contents
+
+- [1. Motivation](#1-motivation)
+- [2. Install](#2-install)
+    - [2.1 Dependencies](#21-dependencies)
+    - [2.2. Alpaca & Qdrant](#22-alpaca--qdrant)
+    - [2.3. AWS CLI](#23-aws-cli)
+- [3. Usage](#3-usage)
+    - [3.1. Local](#31-local)
+    - [3.2. Docker](#32-docker)
+    - [3.3. Deploy to AWS](#33-deploy-to-aws)
+    - [3.4. Linting & Formatting](#34-linting--formatting)
+
